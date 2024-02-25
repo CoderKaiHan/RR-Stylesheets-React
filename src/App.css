@@ -2,4 +2,11 @@
   text-align: center;
 }
 
+.GrandChild1 {
+  border: 1px dashed teal;
+}
+
+.GrandChild2{
+  border: 1px dotted pink;
+}
 
